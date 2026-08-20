@@ -1,4 +1,12 @@
 # Retail Intelligence: Pricing & Demand Signals Dataset
+<img width="720" height="404" alt="Screenshot 2569-08-20 at 23 15 58" src="https://github.com/user-attachments/assets/6da1988e-da74-492f-8626-fe2b9950652b" />
+<img width="763" height="390" alt="Screenshot 2569-08-20 at 23 15 45" src="https://github.com/user-attachments/assets/98847e9f-c772-4ab9-83c6-b101ad17e221" />
+**Goal: Complete a DS pipeline of 3 phases by yourself of
+i) Data exploration
+ii) 1st round of models
+iii) 2nd round of models (need to see improvement from previous phase).
+*(DO NOT turn in other people’s python notebooks)**
+
 
 A retail pricing and demand dataset designed for analyzing how price changes, promotions, seasonality, and inventory levels influence customer demand.
 
